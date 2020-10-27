@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463652269813",
+    "firebase_url": "https://login-dc6bf.firebaseio.com",
+    "project_id": "login-dc6bf",
+    "storage_bucket": "login-dc6bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463652269813:android:29a715aa0e0353f8321fbc",
+        "android_client_info": {
+          "package_name": "com.loginforcrave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463652269813-h1rshvvrfskdgd13t5kbm0btvgvtqh40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpwAos3Xt2y9nN6UWnDnFe5UuuQm40Rlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463652269813-h1rshvvrfskdgd13t5kbm0btvgvtqh40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
