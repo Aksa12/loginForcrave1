@@ -5,6 +5,8 @@ const Loading = (props) => {
   return (
     <View style={styles.container}>
       <ActivityIndicator size="large" color={colors.primary} />
+      /*Add changes here
+      */
     </View>
   );
 };
